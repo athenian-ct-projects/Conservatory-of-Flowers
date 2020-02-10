@@ -1,9 +1,6 @@
-# Assignment Description
+# Conservatory of Flowers quiz game
 
-written by 
+written by CK'23
 
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Conservatory-of-Flowers-CK)](https://repl.it/github/athenian-ct-projects/Conservatory-of-Flowers-CK)
+* This is a true/false game for the Conservatory of Flowers focus day.
