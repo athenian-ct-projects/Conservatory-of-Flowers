@@ -1,6 +1,4 @@
-print("""
-Conservatory Of Flowers: A super fun true or false quiz!
-created by CK'23
+print("Conservatory Of Flowers: A super fun true or false quiz! \ncreated by CK'23)
 
 def function(score):
   y= input("true or false? ")
